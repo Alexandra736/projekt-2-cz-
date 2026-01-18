@@ -1,1 +1,1 @@
-# projekt-2-cz-
+# projekt-2-część 
