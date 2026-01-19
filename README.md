@@ -12,7 +12,8 @@ poziomu cieczy w zbiornikach, temperatury w zbiornikach z grzałkami, pracy inst
 2. Woda zaczyna płynąć z 1 i 2 zbiorników do 3 po rozpoczęciu programu, przez polączenia rurowe z zakrętami o 90 stopni.
 3. Następnie woda płynie z 3 zbiornika przez system rur do 4 i 5 zbiorników.
 4. Po całkowitym napełnienu 4 i 5 zbiorników zaczynają urochaniać się grzałki na nich i podnoszą temperaturę wody do 100 stopni.
-5. Wszystko przebiega automatycznie.
+5. Wszystko przebiega automatycznie,
+6. Jest alarm który zaczyna działać przy osiągnięciu 100 stopni temperatury wody.
 
 
 # Funkcjonalności
